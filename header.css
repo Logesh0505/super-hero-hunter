@@ -1,0 +1,53 @@
+html {
+  background-color: rgb(49, 12, 12);
+  color: white;
+  background-image: url("https://wallpaperset.com/w/full/2/8/b/100737.jpg");
+background-position: center;
+
+}
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 10px;
+  border-bottom: 1px solid lightgray;
+  background-color:rgb(3 74 6);
+  border-radius: 10px;
+  box-shadow: 0 0 10px black;
+  background-image: url("https://wallpaperset.com/w/full/2/8/b/100737.jpg");
+  background-position: center;
+background-size: cover;
+
+}
+
+.fav {
+  margin-block: auto;
+}
+
+.fav a {
+  color: #ffeb3b;
+  text-decoration: blink;
+  word-spacing: 10px;
+  margin-right: 10px;
+}
+h2 {
+  color: #eb3e07;
+  margin-left: 10px;
+}
+
+.head-title h2 a {
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+#dislike {
+  color: gray;
+}
+
+#like-button {
+  color: rgb(255, 102, 102);
+}
